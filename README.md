@@ -36,13 +36,10 @@
 ###
 
 <div align="center">
-  <a title="kamkeyke" href="https://discord.gg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://alvarogabriell.itch.io" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
   </a>
-  <a title="alvaromotagabriel@hotmail.com" href="https://outlook.live.com/" target="_blank">
+  <a title="alvaromotagabriel@hotmail.com" href="mailto:alvaromotagabriel@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://ko-fi.com/kamkeyke" target="_blank">
