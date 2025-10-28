@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐 Links</h2>
 
 ###
 
