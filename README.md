@@ -23,7 +23,6 @@
 
 <p align="left">
   <ul>
-  <li><b>Roll a Football:</b> My version of the Unity tutorial "Roll a Ball." I made it using some free assets from Unity's Asset Store.</li>
   <li><b>Getting Deeper:</b> A game about traversing a cave while surviving various monsters that a group of friends from the course and I made.</li>
   <li><b>Crimson Epidemy:</b> A small and simple game inspired by Vampire Survivors.</li>
   </ul>
