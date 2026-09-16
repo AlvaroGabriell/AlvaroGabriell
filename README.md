@@ -12,8 +12,7 @@
 
 ###
 
-<p align="left"><b>Digital Games</b> student, learning to develop in <b>Unity (C#)</b>. Here I post the projects I've done and am working on during the course.</p>
-<p>💻 I'm currently developing <b>Crimson Epidemy</b>.</p>
+<p align="left"><b>Digital Games</b> student, mainly focused on programming and game development with <b>Unity (C#)</b> and <b>Minecraft modding (Java)</b>.</p> <p>💻 I'm currently working on <b>Desperata</b>, a VR roguelike game made with Unity.</p>
 
 ###
 
@@ -23,8 +22,10 @@
 
 <p align="left">
   <ul>
-  <li><b>Getting Deeper:</b> A game about traversing a cave while surviving various monsters that a group of friends from the course and I made.</li>
-  <li><b>Crimson Epidemy:</b> A small and simple game inspired by Vampire Survivors.</li>
+    <li><b>Desperata:</b> A VR roguelike game currently in development using Unity.</li>
+    <li><b>Sabotagem:</b> A local co-op puzzle-solving platformer featuring a 2.5D setting and 3D environments.</li>
+    <li><b>Red Cyberhood:</b> A top-down 2D runner game where the player performs parkour while traveling between the past and the future to dodge threats.</li>
+    <li><b>Getting Deeper:</b> A 2D game with a tense, claustrophobic atmosphere, in which the player must venture deeper into a cave while dealing with various monsters.</li>
   </ul>
 </p>
 
@@ -38,11 +39,14 @@
   <a href="https://alvarogabriell.itch.io" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
   </a>
-  <a title="alvaromotagabriel@gmail.com" href="mailto:alvaromotagabriel@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a title="alvaromotagabriel@outlook.com" href="mailto:alvaromotagabriel@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft outlook logo"  />
   </a>
   <a href="https://ko-fi.com/kamkeyke" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alvaro-gabriell/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
